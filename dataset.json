@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Local dining market data for Newton in New England. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Newton, Massachusetts, US",
+  "export_job_id": "2a4778b5-0960-4f22-8e12-d65b57c548ec",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 962891,
+  "location_name": "Newton",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-newton-massachusetts-us-sample-962891",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/962891/beamstation_962891_restaurants-us-ma_SAMPLE_DIST.csv",
+  "sample_pct": 9.86,
+  "sample_records": 28,
+  "sample_sha256": "c1ac9fb5ac251fe90a51da0b589b3a720de3fe3aa5aad5bb907dc56affc08b3c",
+  "sample_size_bytes": 114722,
+  "total_records": 284,
+  "updated_at": "2026-04-09T09:57:16.009730+00:00"
+}

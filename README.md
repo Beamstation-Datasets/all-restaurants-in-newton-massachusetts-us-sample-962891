@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 284 records |
 | Free sample size | 28 records (9.86%) |
-| Last export | 2026-04-09T09:57:16.009730+00:00 |
+| Last export | 2026-04-16T09:47:21.369410+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-newton-massachusetts-us-sample-962891/releases/download/sample-latest/beamstation_962891_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample

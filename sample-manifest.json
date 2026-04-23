@@ -1,12 +1,12 @@
 {
-  "export_job_id": "855d4b07-12dc-40ff-a5ee-eb87cd11e969",
+  "export_job_id": "4c578e49-317e-413d-a9fc-1aa650c54023",
   "id_short": 962891,
-  "published_at": "2026-04-19T19:18:27Z",
+  "published_at": "2026-04-23T19:42:52Z",
   "repo_name": "all-restaurants-in-newton-massachusetts-us-sample-962891",
   "sample_asset_name": "beamstation_962891_restaurants-us-ma_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/962891/beamstation_962891_restaurants-us-ma_SAMPLE_DIST.csv",
-  "sample_records": 28,
-  "sample_sha256": "c1ac9fb5ac251fe90a51da0b589b3a720de3fe3aa5aad5bb907dc56affc08b3c",
-  "sample_size_bytes": 114722,
-  "total_records": 284
+  "sample_records": 25,
+  "sample_sha256": "e8d5d02968787e449dd75a3c19009e284626a2d9b9e6b121a9d941c210c89535",
+  "sample_size_bytes": 106546,
+  "total_records": 253
 }

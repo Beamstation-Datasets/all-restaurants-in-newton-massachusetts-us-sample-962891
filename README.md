@@ -1,6 +1,6 @@
 # All Restaurants in Newton, Massachusetts, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 27 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `962891` |
 | Location | Newton |
 | Category | Restaurants |
-| Full dataset size | 253 records |
-| Free sample size | 25 records (9.88%) |
-| Last export | 2026-04-23T09:44:51.222050+00:00 |
+| Full dataset size | 278 records |
+| Free sample size | 27 records (9.71%) |
+| Last export | 2026-04-30T09:51:49.843558+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-newton-massachusetts-us-sample-962891/releases/download/sample-latest/beamstation_962891_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
